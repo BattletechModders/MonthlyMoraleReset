@@ -19,4 +19,4 @@ This mod would not be possible without all tools and mods provided for the commu
 * [Andreas Pardeike](https://github.com/pardeike) for **Harmony**.
 * [Mpstark](https://github.com/Mpstark) for **BTML** and **ModTek**
 * [CptMoore](https://github.com/CptMoore) for **StartingMercsMod** and his code which inspîred my own.
-* ACCount12 for **Better Sorting** and his code which gave me pointers about how to handle image data.
+* ACCount12 for **Better Sorting** and his code which gave me pointers about how to handle in game data.
