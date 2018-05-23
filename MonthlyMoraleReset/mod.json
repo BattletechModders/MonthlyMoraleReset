@@ -1,8 +1,8 @@
 {
 	"Name": "MonthlyMoraleReset",
 	"Author": "Zathoth",
-	"Website": "https://github.com/",
+	"Website": "https://github.com/Zathoth/MonthlyMoraleReset",
 
-	"DLL": "QuarterlyResetMorale.dll",
-	"DLLEntryPoint": "QuarterlyResetMorale.Control.Start",
+	"DLL": "MonthlyMoraleReset.dll",
+	"DLLEntryPoint": "MonthlyMoraleReset.Control.Start",
 }
